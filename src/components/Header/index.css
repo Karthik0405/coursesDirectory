@@ -1,0 +1,15 @@
+.header-bg-container {
+  background-color: #f1f5f9;
+  padding: 20px;
+}
+
+.logo-button {
+  background-color: transparent;
+  border-style: none;
+  cursor: pointer;
+  outline: none;
+}
+.website-logo {
+  width: 150px;
+  margin-left: 30px;
+}
